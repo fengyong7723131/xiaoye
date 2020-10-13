@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T07:41:30.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="e5MpBlZVAFlW8oVM3GSx" version="13.7.9" type="github"><diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">7VrbbuM2EP0aPsbQXdSj5Mhtge4iQBbo5qlQbcbSVjZdiV7b/foOKepOx0osOQnQl4QcUpTFM3PmQiJzvjn+kkW7+AtdkRQZ2uqIzHtkGJ7lwF8uOBUCxzEKwTpLVoVIrwWPyb9ECjUp3ScrkrcmMkpTluzawiXdbsmStWRRltFDe9ozTdtv3UVr0hM8LqO0L/0jWbFYSg1Nqwd+Jck6Ll/tlCObqJwtBXkcreihITJDZM4zSlnR2hznJOWbV25M8dzizGj1yzKyZUMe+O3B+epsnozFt+fN86P1I/2iZXdylZ9RupdfjAwnhfWCZwrLwq9mJ7kXzj97Wg7c5QIpHyboeHesB6G1Fv9DG/kh8kIUOshzUeAIiSEkNsIL5Ol38yiPU5LnsErMgZFvhk8oXi6XKnav+h1GRvfbFeFfpcPwIU4YedxFSz56ACUEWcw2qRzOWUb/JnOa0gwkW7ol1ZI/ScbI8exu6hVGoNyEbgjLTjDlWKlA8YhUbE92D7WWVMjHDQVxpCySirmuVq6hg4ZE7xVIGn0kYaM9HXmYNwIX+TYHg2+9hkILBT7yLRRi5OsIzwVO9wibKHSRB6OmGFrwB0P4O0cYf5Ng8oUKkdcDp9jv0laMDhhxtOPzNsc1Z4vZc0oPyzjK2Cxn8PfPc3hOgFdlwQ3AdF0BmDsVYKbC9DqbSbYrn5MY9JZplOfJsr2f5Jiw7432E7S1mS179/zTtbJzanQeSJbAR5BMyvqgwa5mp+/lI7zTWJt368VFr1y9+ASy6rFqByf4TLrPluSyQoNirAl7YZ6lxr2Bq62AtZRlJI1Y8rP9c1VYyzc80ETwolQrS2+rldm17+Iz5VNNdu4sVOlZqZ+m3V6o2IfeQkL1qs9+uzbqCu0DFB9ll2Yspmu6jdKwlgY1E3Ps6zm/U7qTavmDMHaSfj3aMzqCAr9RNftKPqKyWgOV1VUr62AtvIpxLIWLwNxNgwcA1uf+Gsje424aW8JXQFv4AWyIOQo/0GzMkR+c9wyvctvRXzlN94z42VIqj5DWPesFRK9yFAbuGKJu9x2FilGsqRyFbv1vmleYpjvQNPUzenEb29S9AeHA9Kj3kVhBkF5ZbakUtSI8NUbUSvEeUOIroVT7aNvqOHt7mLMfy0eb7+qjX4P5SwFlzQZPLTKYPKAcqj3mtURwJlTULoSKE0d4rsL7ewi8neeLnG8BbpxutonIz++RJzJ27PI8cVBMYAR6Ixyo8kuHJ6Ce2agDeKJhieVhvReSyU8SMlid2F33nJmhiBosVXrpzuzzmnSdS7E/S9zwIfNPvaw3XvQ2ziR8gbuB6K0zQkVtEHgiCDhV1HmDx+N++KlcAtasN+p8FUeA6dso0ATfuLwCdY41HFF6cgQfBbJy5WkIh5+eIxynW39SEIR504KhCl9RtS2qgRiLQmG3avsxotIx7dwZaOeNqv17JAiO2hx9FCyEuwVrC2qUCtd+zhwBYTBE/lTAnfR72FQrrxjBwLDVNTBjNjBzdybzwFiBWQWDoDwfN2IlmxNcYLTo0RxQdL+AUBvOPhQdrMZGxuo4MlNxVqLf9qwEf5bIaLyKihjvFv5HpNESwMs06k0SLulat4Ju9ELriSOmcgta5i6Mm+dQ1RkcBEouj5Vqru5TAkbBPfLnomHJySDxhIuGkAn4fFoSGIORbfuj2b3RB6hHBBfO3Frs+PbA5L0OrLyxDqx6xbAblzMMVcG0uECQ76JtfRGhf8DdD3Ib/vZrw81W9xFaK3Y15o1H3sDCm2QbMX4xYbJT7x4pqo69b2qDpirtaOd9WLAlQBNoDQIsUJmfK1o1GdMWtSqRbEp6dcWFhv59iGp1oQqtuw7DQq9Pkn5W91Ne4mJnHD2Abn2rqTD3+m6YGf4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T08:00:24.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="FsMeUKZhZOz_zKkcTT48" version="13.7.9" type="github">
+  <diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cashless hold&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-2" value="员工提交行权申请（T日）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-2" target="IP6N6mY2FTfmfS4jlM0r-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="360" as="sourcePoint" />
+            <mxPoint x="270" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-4" target="IP6N6mY2FTfmfS4jlM0r-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-4" value="计算预扣股（T日日末）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="215" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-7" value="通知omni卖出预扣股（T+1日交易时间内）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="196.25" width="140" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-11" target="IP6N6mY2FTfmfS4jlM0r-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-11" value="统计需要增股数量（T+1日收盘后）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="205" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-21" value="完成增发" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-16" target="IP6N6mY2FTfmfS4jlM0r-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-16" value="线下发送增股指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="202.5" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-18" value="股票交割（T+3日）" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-20" target="IP6N6mY2FTfmfS4jlM0r-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="227.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-20" value="人工触发股票转账归属" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" parent="1" vertex="1">
+          <mxGeometry x="855" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-22" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="360" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-29" value="&lt;span&gt;行权完成（T+N）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-31" value="收益到账，通知omni转资金至员工账户（T+3日）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
