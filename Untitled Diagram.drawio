@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T02:46:49.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="r3acKHP5d2WoTW0jYDBn" version="13.7.9" type="github"><diagram id="jDUVt8dIGyTaI10tpX3-" name="Page-1">zZVNj5swEIZ/zRwjgfk+QuLN9lBtpVSqenSDF9AaTI2zkP76DmAgiN1+SNVuL2R4ZjzY77wQcPZld1Sszj/KlAsgVtqBcwBCAsvDaw+uI/DDYASZKtIR2Qs4FT+4gZahlyLlzapQSyl0Ua/hWVYVP+sVY0rJdl32KMX6qTXL+Aaczkxs6Zci1flIQxIs/J4XWT492fajMVOyqdicpMlZKtsb5FBw9kpKPUZlt+ei127SZVx390p23pjilf6TBUdaflDfhCuPX6OGycOx/Kx3psszExdzYCC+wH7Jo8S2uGt9NVL43y9ySuyaYVAxFthh3S1JjLLhl3oQU4goUB+iABJ/IGQgHoR3ENlAXUhCiOKBxBDbfXGCMQYBxCGEybQbPNa4IdN+VHTeG1HyUqW8P6mN6TYvND/V7NxnW/QlslyXwqQbreQT30shFZJKVnxu+cyV5t2rCtvz3NDvXJZcqyuWmAW+mbSxumtu28U3dmBYfuOZaRkzVs3mxss0MTAD/Yvhks1w6enh0y+0s36v3T+QKfRWMtkv6UTeUidn+xLQEBL0qNUHeI293WBkDxKrD8JD7260bUJ6d7+3oiRy/zNJ3Y2kD1VZvLtQbmC9mVB4u3zch9zNP6RDfwI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T03:03:27.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="vapmkTJG3dbT9do_gN1_" version="13.7.9" type="github">
+  <diagram id="jDUVt8dIGyTaI10tpX3-" name="Page-1">
+    <mxGraphModel dx="705" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Izq27wD2L1mzASNL76h-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="200" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="250" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="85" y="200" width="195" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="GEmIrbl4oGY9saoDGmTt-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;实时增发业务流程&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEmIrbl4oGY9saoDGmTt-2" value="ESOP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="140" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEmIrbl4oGY9saoDGmTt-3" value="运营" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="140" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEmIrbl4oGY9saoDGmTt-4" value="Onmi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-1" value="分发股票完成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-2" value="行权申请" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-2" target="3Izq27wD2L1mzASNL76h-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="sourcePoint" />
+            <mxPoint x="193" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-4" target="3Izq27wD2L1mzASNL76h-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-4" target="3Izq27wD2L1mzASNL76h-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-4" value="是否实时增发" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.88" y="340" width="131.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-6" target="3Izq27wD2L1mzASNL76h-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-6" value="统计实时增发报表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="339" y="410" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-9" value="Credit &amp;nbsp;Sell" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="347.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-11" target="3Izq27wD2L1mzASNL76h-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-11" value="数据岗通知公司和结算需增发股数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="307.12" y="490" width="189.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-13" target="3Izq27wD2L1mzASNL76h-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-13" value="结算收到增股后，通知数据岗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="600" width="186.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3Izq27wD2L1mzASNL76h-14" target="3Izq27wD2L1mzASNL76h-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Izq27wD2L1mzASNL76h-14" value="分发股票" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="595" width="120" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
