@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T06:27:30.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="CsQRJmV5H5RKq6xXWgaP" version="13.7.9" type="github"><diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">7Vlbd9o4EP41egzH98ujDSbpbpqTPfR0y1OPYgvsrLFYWxTor9+RLN+wSSAJm7anLyCNRmNZ882n0Rjp49XuOsfr+CONSIo0JdohfYI0zbVd+OWCfSmweY8LlnkSlSK1EcyS70QKFSndJBEpOoqM0pQl664wpFlGQtaR4Tyn267agqbdp67xkvQEsxCnfenfScRiKdUUpRm4Ickyrh5tVSMrXGlLQRHjiG5bIj1A+jinlJWt1W5MUr551caU86ZHRuuV5SRjp0z4cG/dWau5Nv20WC1mxmP6UcmvpJVvON3IN0aalYI9f0HBLKya7eVeWP9uaDVwVQhPeaCgOutdMwitJf8f4yKGwZjvtzQIKyttlhpyU2rzWk43WUT4YlUY3sYJI7M1DvnoFrAFspitUjlcsJz+Q8Y0pTlIMpqR2mR7R6rXIzkju5ZI7tA1oSvC8j2o7GrPllMkXl3Z3TbOrx0at/xuSRmWeFvWlhuPQEM65QwHaX0HBSZyVeQ6vOHbyDNRYCFnimCtgYF8D3kGChzkqcgZ8yF3ghwdBTZyYVQXQ1M+MYDfMXKcT0KpNFSK3J5zyv2uQkA7cEaM11xvtVtyEhgtUroNY5yzUcHg9+sxf17AX3VgthymqgMOsy/lMH0gog42k2SRx7kJemGKiyIJu/tJdgn70mrPoa2MTNmb8FdXqs6+1bkneQIvQXIp6zsNNjrff6mm8E7LNu82xkWvsn7UUwXd5CF5Hr+AgyVhT+jZpR6JOnzc93vLr+aAWytZTlLMkm9dFh/ytXzCPU0E3UlYGWoXVvphfJfvLWe1SffAkOYc4FM3u4bKjekZEtCrX/skNOLb2WN6++dsxj7Mb2fzr3Pnj89XZh98sMMz2aU5i+mSZjgNGqnfEDF3faNzS+laovKRMLaXpzXeMDqM3waz89bIEfzWyGzAOO9gcRiZfYy/HKv2iVjV1RPBeh4KgRPwvqWw5qAojoO0BqXElqEoT2LxGX1olCt4UwBa7wnAswj0hdT4HgBU3xyArzry7IEcxUXAfK4n0o4ppBZ0lSU8YXEmyLVEw+apyjk5yFkJIn4oaLphxMtDCRMhbXrGeb47PSWpc0YZZqprjTSzn5UYQ1mJPTIv5CT1XY+CcyLxR0hbqgh7PhSti5wFPfJ2/r9E4skN6QQ5hLDPw5tfKQJ+4YCwd8c88rkELiUqj3RPQ27AJY4mdCDQ4eKiCI6w+cVliAQscVuxBH/48rIDgeUEPz0/mMrhlWWAHPQL3TGvb+69YmZo7t32Zv5dTYq//LAqAvxOEk9iBuvdssRXOXmgkHBupUcbqvSICA9kqcFxRBWijnlT1CXUU0tAfKtu8QNJD2I1TZYZtENwFr/c+jzYkhCnnhxYJVFUopLAcvGDsMcdL1NoMG76yJwMOv6pkOhFdV1plA9B7VreULRfKSPFNI1uxKNX3VErFbpYFOQyZG8Nk72H/KmoMQGX+413y2TvGNkDMoDm+SyfV6beg7UjXMT1I96Awm31kMK10QCJDxUorEvld5p7NMCLNc6acO1XBvsBXB/Imn/XOnDrKO5YfKNaIYT2Kskw4xXdS5UL9YOz17AGyoWXqu8OEo3+q5+9ovd8ZfLlB7J+aqpeRcgPcmvWhzLqbtrreIJkHZEtw6/Bk2oZjuNjd2zQmyBvLBow2ZB5NudpR9y69aEvCLV1wQGdrwOar/1Ct3PnSGW3zQDW2zAAdJvPe+XZ3Hwk1YP/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-14T06:35:06.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="NJQEzLAc2zHM9AGQtLuo" version="13.7.9" type="github">
+  <diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">
+    <mxGraphModel dx="979" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cash hold&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-2" value="员工提交行权申请" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-2" target="IP6N6mY2FTfmfS4jlM0r-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="360" as="sourcePoint" />
+            <mxPoint x="280" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLSjlLKSStIYLSY_Y8JV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-7" value="审核通过" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="208.13" width="110" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-11" target="0F51FI2qZeOwciTwAo53-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-11" value="标记完税" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="440" y="205" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP6N6mY2FTfmfS4jlM0r-16" value="线下发送增股指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="202.51" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="0F51FI2qZeOwciTwAo53-1" target="IP6N6mY2FTfmfS4jlM0r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-1" value="统计需要增股数量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="205.01" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
