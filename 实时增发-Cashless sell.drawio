@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T06:19:05.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="8wmWMM0lGheZelRBAI2C" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T06:22:55.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="A34SmvQ28mIisXgJgB1K" version="13.7.9" type="github">
   <diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">
     <mxGraphModel dx="979" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -17,7 +17,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aLSjlLKSStIYLSY_Y8JV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="400" />
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aLSjlLKSStIYLSY_Y8JV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-7" target="IP6N6mY2FTfmfS4jlM0r-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,21 +36,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-11" value="统计需要增股数量（T日收盘后）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="520" y="205" width="130" height="60" as="geometry" />
+          <mxGeometry x="500" y="205" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IP6N6mY2FTfmfS4jlM0r-21" value="完成增发" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="IP6N6mY2FTfmfS4jlM0r-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="400" as="targetPoint" />
+        <mxCell id="GHPAsS429NwHYz1isQBc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-16" target="IP6N6mY2FTfmfS4jlM0r-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHPAsS429NwHYz1isQBc-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;完成增发&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GHPAsS429NwHYz1isQBc-1">
+          <mxGeometry x="-0.0554" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-16" value="线下发送增股指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="202.5" width="150" height="65" as="geometry" />
+          <mxGeometry x="710" y="202.5" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-29" value="&lt;span&gt;行权完成（T+N）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="300" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHPAsS429NwHYz1isQBc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-31" target="IP6N6mY2FTfmfS4jlM0r-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-31" value="收益到账，通知omni转资金至员工账户（T+2日）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="360" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
