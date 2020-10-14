@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T06:35:06.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="NJQEzLAc2zHM9AGQtLuo" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T06:40:50.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="zgHr2JCQ_nVp-0WJtCT_" version="13.7.9" type="github">
   <diagram id="J9ElGls0z0i14CrVCFYJ" name="第 1 页">
     <mxGraphModel dx="979" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -25,17 +25,45 @@
         <mxCell id="0F51FI2qZeOwciTwAo53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-11" target="0F51FI2qZeOwciTwAo53-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-11" target="0F51FI2qZeOwciTwAo53-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-11" value="标记完税" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440" y="205" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-11" value="完成增发" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="IP6N6mY2FTfmfS4jlM0r-16" target="0F51FI2qZeOwciTwAo53-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="865" y="390" />
+              <mxPoint x="665" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IP6N6mY2FTfmfS4jlM0r-16" value="线下发送增股指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="202.51" width="150" height="65" as="geometry" />
+          <mxGeometry x="790" y="211.26" width="150" height="47.49" as="geometry" />
         </mxCell>
         <mxCell id="0F51FI2qZeOwciTwAo53-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="0F51FI2qZeOwciTwAo53-1" target="IP6N6mY2FTfmfS4jlM0r-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0F51FI2qZeOwciTwAo53-1" value="统计需要增股数量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="205.01" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="0F51FI2qZeOwciTwAo53-6" target="0F51FI2qZeOwciTwAo53-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-6" value="股票待转账" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="0F51FI2qZeOwciTwAo53-8" target="0F51FI2qZeOwciTwAo53-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-8" value="人工触发转账归属" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0F51FI2qZeOwciTwAo53-13" value="行权完成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="540" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
